@@ -1,0 +1,1 @@
+reversed num is :1876
